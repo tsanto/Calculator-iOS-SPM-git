@@ -7,7 +7,7 @@
 //
 
 import UIKit
-import Calculator_framework
+import Calculator
 
 class ViewController: UIViewController {
 
